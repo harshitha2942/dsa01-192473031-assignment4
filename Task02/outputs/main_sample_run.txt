@@ -1,0 +1,6 @@
+Exit code: 0
+
+STDOUT:
+Teaching assistant: Kavya ID=201 Phone=9000000001 Programme=CSE CGPA=9.1 Department=Computing Salary=25000
+Research scholar: Ravi ID=202 Phone=9000000002 Programme=Data Science CGPA=9.4 Fellowship=18000
+sizeof(Person)=80 sizeof(TeachingAssistant)=176

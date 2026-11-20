@@ -1,0 +1,12 @@
+Exit code: 0
+
+STDOUT:
+Fleet:
+Bicycle [BI-101] daily rate Rs 100 (available)
+Two-wheeler [TW-202] daily rate Rs 250 (available)
+Car [CA-303] daily rate Rs 1200 (available) seats=5
+Electric car [EV-404] daily rate Rs 1500 (available) battery=60 kWh
+Electric bus [EB-505] daily rate Rs 4000 (available) seats=30
+Rented CA-303, charge for 2 days + 5 litres: Rs 2925
+Returned CA-303 with late fee Rs 200; total Rs 3125
+Electric usage charge: Rs 4660

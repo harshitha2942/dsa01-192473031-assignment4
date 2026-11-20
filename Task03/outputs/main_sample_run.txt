@@ -1,0 +1,8 @@
+Exit code: 0
+
+STDOUT:
+Student lifetime: Address constructed Person constructed Course constructed Student constructed 
+192311001 Kavya (19) Salem-636001
+Student destroyed Course destroyed Person destroyed Address destroyed 
+Staff lifetime: Address constructed Person constructed Staff constructed Staff destroyed Person destroyed Address destroyed 
+Car-like base/member order is demonstrated by Student above.

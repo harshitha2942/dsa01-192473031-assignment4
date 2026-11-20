@@ -1,0 +1,7 @@
+Exit code: 0
+
+STDOUT:
+Payroll summary
+Professor | Anita | ID 101 | Pay Rs 79000
+Lab Assistant | Bala | ID 102 | Pay Rs 42600
+Guest Faculty | Charan | ID 103 | Pay Rs 36000

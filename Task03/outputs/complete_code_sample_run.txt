@@ -1,0 +1,4 @@
+Exit code: 0
+
+STDOUT:
+192311001 Kavya (19) Salem-636001

@@ -1,0 +1,17 @@
+Exit code: 0
+
+STDOUT:
+Virtual rate: 3.5
+Virtual rate: 4
+Virtual rate: 4.5
+Base pointer: non-virtual=3.5 virtual=4
+SeniorAccount destroyed
+Account destroyed
+SeniorAccount destroyed
+Account destroyed
+Sliced copy virtual rate: 3.5
+Account destroyed
+Account destroyed
+SeniorAccount destroyed
+Account destroyed
+Account destroyed

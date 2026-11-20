@@ -1,0 +1,6 @@
+Exit code: 0
+
+STDOUT:
+Heap cart total: 40
+Chained cart total: 324.00
+Highest cart total: 220.00 at index 1

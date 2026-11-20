@@ -1,0 +1,4 @@
+Exit code: 0
+
+STDOUT:
+3.5 4 3.5
